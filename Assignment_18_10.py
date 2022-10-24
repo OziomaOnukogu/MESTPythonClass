@@ -8,4 +8,4 @@ num1 = input('ENTER NUMBER')
 num2 = input('ENTER NUMBER')
 sum = int(num1) + int(num2)
 
-print("The sum is: ", sum)
+print("The sum of the entered numbers is: ", sum)
